@@ -1,3 +1,6 @@
+<!-- Link do respositório da atividade no Github para uma melhor visualização:
+https://github.com/SavioSayke/CompassUOL_Desafios/blob/main/Mes_1/SCRUM.md  -->
+
 # SCRUM
 
 Antes de falarmos sobre Scrum, vamos mostrar uma breve apresentação sobre **Manisfeto Ágil** algo que mudaria para sempre a maneira como desenvolvemos softwares hoje em dia.
