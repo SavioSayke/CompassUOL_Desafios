@@ -14,9 +14,7 @@ Na década de 1990, a indústria do desenvolvimento de software sofria com diver
 
 O grupo que compôs o manifesto ágil chegou a conclusão de que as empresas estavam se preocupando muito mais com o planejamento e a documentação dos ciclos e, por fim, se esquecendo do ponto-chave:
 
-<p style="display:inline-block; border:1px solid #fff; padding:4px; border-radius:4px; font-weight:bold;">
-  Agradar os clientes
-</p>
+#### **Agradar os clientes**
 
 As empresas até ditavam valores a respeito de "excelência" e "integridade", porém ofereciam poucos guias para as pessoas e, em especial, para os desenvolvedores de software.
 
